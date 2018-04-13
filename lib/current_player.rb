@@ -12,4 +12,3 @@ end
 counter
 end
 
-turn_count(board)
